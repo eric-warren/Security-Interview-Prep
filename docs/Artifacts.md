@@ -32,7 +32,7 @@
 	
 	Intesting location appdata/roaming/microsoft/windows/recent
 		Recent files and folders
-<\div>	
+</div>	
 <div class = "col-md-4">
 	
 ### Jump List (context menu when right click program in taskbar):
@@ -72,4 +72,4 @@
 		Can show file was deleted
 		USNJournal: $extend\$usnjrnl tracks changes to file in $J and 
 		Logfile: $LOGFILE tracks changes to mft metadata
-<\div>	
+</div>	
