@@ -1,3 +1,5 @@
+<div class = "col-md-4">
+
 ### Recycle Bin Forensics:
     Location: C:\$Recycle.Bin\SID*\$Ixxxxxx Metadata
 	          C:\$Recycle.Bin\SID*\$Rxxxxxx contents of file
@@ -30,6 +32,8 @@
 	
 	Intesting location appdata/roaming/microsoft/windows/recent
 		Recent files and folders
+<\div>	
+<div class = "col-md-4">
 	
 ### Jump List (context menu when right click program in taskbar):
 	conatins lnk files
@@ -68,3 +72,4 @@
 		Can show file was deleted
 		USNJournal: $extend\$usnjrnl tracks changes to file in $J and 
 		Logfile: $LOGFILE tracks changes to mft metadata
+<\div>	
